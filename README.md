@@ -1,2 +1,6 @@
 # Desafio Dio Git/GitHub 001
-Desafio de Projeto sobre Git/GitHub
+ - Repositoria criado para estudo 
+
+
+## Links Úteis 
+[Sintaxe Basisa Markdown](https://www.markdownguide.org/basic-syntax/)
